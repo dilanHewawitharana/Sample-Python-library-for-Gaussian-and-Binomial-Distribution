@@ -7,17 +7,17 @@
 
 ## Installation
 
-'''
+```
 pip install dsh_distributions
-'''
+```
 
 ## Usage
 
-'''
+```
 from dsh_distributions import Gaussian, Binomial
 Gaussian(10,7)
 Binomial(0.4,25)
-'''
+```
 
 This can be used to analyse Binomial distribution and Gaussian distribution of a data set.
 
